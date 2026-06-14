@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1649839417 source:e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\board.cpp
+	<iostream>
+	<cstdlib>
+	"board.h"
+
+1649839458 e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\board.h
+	<string>
+	"piece.h"
+
+1650311827 e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\piece.h
+	"square.h"
+
+1650016359 e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\square.h
+	<sstream>
+
+1649850654 source:e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\main.cpp
+	<iostream>
+	"player.h"
+
+1650444464 e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\player.h
+	<string>
+	"move.h"
+	"piece.h"
+	"board.h"
+
+1649769688 e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\move.h
+	"piece.h"
+
+1649850698 source:e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\move.cpp
+	"move.h"
+
+1649850693 source:e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\piece.cpp
+	"piece.h"
+
+1651070313 source:e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\player.cpp
+	<iostream>
+	"square.h"
+
+1651070313 source:e:\Σχολή\2ο\Αντικειμενοστρεφης προγραμματισμος\learning c++\square.cpp
+	<iostream>
+	"square.h"
+
+1651230284 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++\board.cpp
+	<iostream>
+	<cstdlib>
+	"board.h"
+
+1649839458 c:\users\ddiak\onedrive\documents\projects\project 2 c++\board.h
+	<string>
+	"piece.h"
+
+1651162406 c:\users\ddiak\onedrive\documents\projects\project 2 c++\piece.h
+	"square.h"
+
+1650016360 c:\users\ddiak\onedrive\documents\projects\project 2 c++\square.h
+	<sstream>
+
+1649850656 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++\main.cpp
+	<iostream>
+	"player.h"
+
+1650444466 c:\users\ddiak\onedrive\documents\projects\project 2 c++\player.h
+	<string>
+	"move.h"
+	"piece.h"
+	"board.h"
+
+1649769690 c:\users\ddiak\onedrive\documents\projects\project 2 c++\move.h
+	"piece.h"
+
+1651231818 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++\player.cpp
+	<iostream>
+	"player.h"
+
+1651314720 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++\square.cpp
+	<iostream>
+	"square.h"
+
+1651231694 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++\playerpieces.cpp
+	<iomanip>
+	<iostream>
+	"player.h"
+
+1651248645 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++\move.cpp
+	"move.h"
+
+1651249525 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++\piece.cpp
+	"piece.h"
+
+1651230282 source:c:\users\dimit\onedrive\Υπολογιστής\telikon\board.cpp
+	<iostream>
+	<cstdlib>
+	"board.h"
+
+1649839458 c:\users\dimit\onedrive\Υπολογιστής\telikon\board.h
+	<string>
+	"piece.h"
+
+1651162406 c:\users\dimit\onedrive\Υπολογιστής\telikon\piece.h
+	"square.h"
+
+1650016360 c:\users\dimit\onedrive\Υπολογιστής\telikon\square.h
+	<sstream>
+
+1649850656 source:c:\users\dimit\onedrive\Υπολογιστής\telikon\main.cpp
+	<iostream>
+	"player.h"
+
+1650444466 c:\users\dimit\onedrive\Υπολογιστής\telikon\player.h
+	<string>
+	"move.h"
+	"piece.h"
+	"board.h"
+
+1649769690 c:\users\dimit\onedrive\Υπολογιστής\telikon\move.h
+	"piece.h"
+
+1651230077 source:c:\users\dimit\onedrive\Υπολογιστής\telikon\move.cpp
+	"move.h"
+
+1651234957 source:c:\users\dimit\onedrive\Υπολογιστής\telikon\piece.cpp
+	"piece.h"
+
+1651231693 source:c:\users\dimit\onedrive\Υπολογιστής\telikon\playerpieces.cpp
+	<iomanip>
+	<iostream>
+	"player.h"
+
+1651234313 source:c:\users\dimit\onedrive\Υπολογιστής\telikon\square.cpp
+	<iostream>
+	"square.h"
+
+1651231816 source:c:\users\dimit\onedrive\Υπολογιστής\telikon\player.cpp
+	<iostream>
+	"player.h"
+

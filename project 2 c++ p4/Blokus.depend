@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1652176293 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\board.cpp
+	<iostream>
+	<cstdlib>
+	"board.h"
+	"player.h"
+
+1652167798 c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\board.h
+	<string>
+	"piece.h"
+
+1652253729 c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\piece.h
+	"square.h"
+
+1651873045 c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\square.h
+	<sstream>
+
+1653560200 c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\player.h
+	<string>
+	"move.h"
+	"piece.h"
+	"board.h"
+
+1652255407 c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\move.h
+	"piece.h"
+
+1652361582 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\game.cpp
+	<iomanip>
+	<iostream>
+	"game.h"
+
+1652255080 c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\game.h
+	"player.h"
+
+1652189384 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\humanplayer.cpp
+	<iostream>
+	"player.h"
+
+1653514099 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\main.cpp
+	<ctime>
+	<cstdlib>
+	<iostream>
+	"game.h"
+
+1652255457 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\move.cpp
+	"move.h"
+
+1653559919 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\piece.cpp
+	<iostream>
+	"piece.h"
+
+1653560214 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\player.cpp
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1653563378 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\playerpieces.cpp
+	<iomanip>
+	<iostream>
+	"player.h"
+
+1652824801 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\randomplayer.cpp
+	<cstdlib>
+	"player.h"
+	"algorithms.h"
+
+1653937769 c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\algorithms.h
+	<iostream>
+	<cstdlib>
+
+1651873041 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\square.cpp
+	<iostream>
+	"square.h"
+
+1653938177 source:c:\users\dimit\onedrive\Υπολογιστής\4o paradoteo\computerplayer.cpp
+	"player.h"
+	"algorithms.h"
+
+1652176294 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\board.cpp
+	<iostream>
+	<cstdlib>
+	"board.h"
+	"player.h"
+
+1652167800 c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\board.h
+	<string>
+	"piece.h"
+
+1652253730 c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\piece.h
+	"square.h"
+
+1651873046 c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\square.h
+	<sstream>
+
+1653560202 c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\player.h
+	<string>
+	"move.h"
+	"piece.h"
+	"board.h"
+
+1652255408 c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\move.h
+	"piece.h"
+
+1653938178 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\computerplayer.cpp
+	"player.h"
+	"algorithms.h"
+
+1653945085 c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\algorithms.h
+	<iostream>
+	<cstdlib>
+
+1652361584 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\game.cpp
+	<iomanip>
+	<iostream>
+	"game.h"
+
+1652255082 c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\game.h
+	"player.h"
+
+1652189386 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\humanplayer.cpp
+	<iostream>
+	"player.h"
+
+1653514100 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\main.cpp
+	<ctime>
+	<cstdlib>
+	<iostream>
+	"game.h"
+
+1652255458 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\move.cpp
+	"move.h"
+
+1653559920 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\piece.cpp
+	<iostream>
+	"piece.h"
+
+1653560216 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\player.cpp
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1653563380 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\playerpieces.cpp
+	<iomanip>
+	<iostream>
+	"player.h"
+
+1652824802 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\randomplayer.cpp
+	<cstdlib>
+	"player.h"
+	"algorithms.h"
+
+1651873042 source:c:\users\ddiak\onedrive\documents\projects\project 2 c++ p4\square.cpp
+	<iostream>
+	"square.h"
+
